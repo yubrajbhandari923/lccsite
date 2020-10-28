@@ -1,0 +1,10 @@
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+.vscode/
+__pycache__/
+*.py[cod]
+.env.prod
+.env.prod.db
